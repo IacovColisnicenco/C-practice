@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 /*
-Version: 1.0
+Version: 1.1
 Task name:
 */
 int main() {
