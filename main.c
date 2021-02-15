@@ -12,7 +12,7 @@ int main() {
 
     puts("Please enter trapezoid base, a(min base), b(max base): ");
     scanf("%f%f",&a,&b);
-    puts("Please enter angle (in radians) exemple value - 30, 45 etc.: ");
+    puts("Please enter angle (in degree) exemple value - 30, 45 etc.: ");
     scanf("%f", &angle);
     angle_rad = (angle*3.14)/180; //переводим градусы в радианы т.к функция tanf() принимает аргумент в радианах
     h = 2*tanf( angle_rad );
