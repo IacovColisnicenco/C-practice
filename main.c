@@ -10,7 +10,7 @@ int main() {
     //Initializing Variables
     float a, b, angle, angle_rad, S, h;
 
-    puts("Please enter trapezoid base, a(min base), b(max base): ");
+    puts("Please enterq trapezoid base, a(min base), b(max base): ");
     scanf("%f%f",&a,&b);
     puts("Please enter angle (in degree) exemple value - 30, 45 etc.: ");
     scanf("%f", &angle);
