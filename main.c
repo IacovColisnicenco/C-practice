@@ -11,19 +11,19 @@ int display_cost, system_unit_cost, keyboard_cost, mouse_cost;
 int total_computer_cost1, total_computers_cost3, total_computers_costN;
 int computers_amount;
 
-printf("Display cost:\n");
+printf("Display cost\n:");
 scanf("%d",&display_cost);
 
-printf("System unit cost:\n");
+printf("System unit cost\n:");
 scanf("%d",&system_unit_cost);
 
 printf("Keyboard cost:\n");
 scanf("%d",&keyboard_cost);
 
-printf("Mouse cost:\n");
+printf("Mouse cost\n:");
 scanf("%d",&mouse_cost);
 
-printf("Enter computers amount:\n");
+printf("Enter computers amount\n:");
 scanf("%d",&computers_amount);
 
 total_computer_cost1 = display_cost + system_unit_cost + keyboard_cost + mouse_cost;
