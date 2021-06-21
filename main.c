@@ -7,7 +7,7 @@ Task id:
 Source: Д. Златопольский "1400 задач по программированию"
 */
 int main() {
-    //Initializing
+    //Initializing variables
 
 
     return 0;
