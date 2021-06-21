@@ -1,4 +1,4 @@
-# task_2.333
+# task_2.33
 
 ## This is a simple C program
 
